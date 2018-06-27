@@ -35,6 +35,10 @@ import org.springframework.core.Ordered;
 import org.springframework.web.servlet.config.annotation.ViewControllerRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
 
+/**
+	* class SampleAtmosphereApplication
+*/
+
 @SpringBootConfiguration
 @EnableAutoConfiguration
 public class SampleAtmosphereApplication {
