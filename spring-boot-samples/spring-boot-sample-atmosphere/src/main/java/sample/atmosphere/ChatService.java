@@ -67,6 +67,9 @@ public class ChatService {
 			}
 		}
 
+		/** 
+		    * Decodes the string
+		*/
 		@Override
 		public Message decode(String s) {
 			try {
